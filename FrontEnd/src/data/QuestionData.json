@@ -1,0 +1,63 @@
+[
+  {
+    "question": "Wha do you want?",
+    "answer": "Apple",
+    "options": [
+      { "A": "apple" },
+      { "B": "orange" },
+      { "C": "pineapple" },
+      { "D": "banana" }
+    ]
+  },
+
+  {
+    "question": "What class are you in?",
+    "answer": "Primary 2",
+    "options": [
+      { "A": "primary 1" },
+      { "B": "primary 2" },
+      { "C": "primary 3" },
+      { "D": "i dont know" }
+    ]
+  },
+  {
+    "question": "Wha do you want?",
+    "answer": "Apple",
+    "options": [
+      { "A": "apple" },
+      { "B": "orange" },
+      { "C": "pineapple" },
+      { "D": "banana" }
+    ]
+  },
+  {
+    "question": "Wha do you want?",
+    "answer": "Apple",
+    "options": [
+      { "A": "apple" },
+      { "B": "orange" },
+      { "C": "pineapple" },
+      { "D": "banana" }
+    ]
+  },
+  {
+    "question": "Wha do you want?",
+    "answer": "Apple",
+    "options": [
+      { "A": "apple" },
+      { "B": "orange" },
+      { "C": "pineapple" },
+      { "D": "banana" }
+    ]
+  },
+  {
+    "question": "Wha do you want?",
+    "answer": "Apple",
+    "options": [
+      { "A": "apple" },
+      { "B": "orange" },
+      { "C": "pineapple" },
+      { "D": "banana" }
+    ]
+  }
+]
